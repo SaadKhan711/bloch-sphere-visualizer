@@ -3,8 +3,6 @@ An intuitive, web-based 3D visualization tool for learning the fundamentals of s
 
 This project was created as a submission for the CQhack25 Hackathon.
 
-Live Demo »
-(Replace the link above with your actual GitHub Pages URL after deploying!)
 
 ✨ Features
 Full 3D Interaction: Rotate, pan, and zoom the Bloch Sphere with your mouse to view the state vector from any angle.
